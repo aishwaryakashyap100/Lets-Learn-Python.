@@ -21,3 +21,6 @@ for i in range(1,101):
 
 for i in range(1,12,2): # the third parameter skips the next number according to the given number in the third parameter
     print(i)
+
+for i in range(2,21,2): # it prints the table of two
+    print(i)
