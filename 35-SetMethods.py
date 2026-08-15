@@ -20,7 +20,7 @@ cities.discard('Japan')
 
 item = cities.pop()
 print(cities)
-print(item) # pop method removes the last item of the set but the catch is that we dont know which item gets popped as sets are unorderes
+print(item) # pop method removes the last item of the set but the catch is that we dont know which item gets popped as sets are unordered
 
 del cities # It is not a method, rather it is a keyword which deletes the set entirely
 
