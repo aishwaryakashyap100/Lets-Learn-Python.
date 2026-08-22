@@ -1,3 +1,5 @@
+# Exception handling is the process of responding to unwanted or unexpected events when a computer program runs
+
 a = input('Enter the number: ')
 print(f'Multiplication table of {a} is: ')
 
