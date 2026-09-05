@@ -1,6 +1,6 @@
 with open('myfile5.txt','r')as f:
     print(type(f))
-    f.seek(9)
+    f.seek(9) # Seek() Function
     print(f.tell()) # Tell() Function
 
     data = f.read(7)
