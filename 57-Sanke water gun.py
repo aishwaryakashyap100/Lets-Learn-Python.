@@ -1,3 +1,5 @@
+# Exercise 5 -
+
 import random
 
 def check(comp,user):
