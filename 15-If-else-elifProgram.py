@@ -1,3 +1,5 @@
+# Exercise 2 -
+
 import time
 name = input("Enter your name : ")
 name = name.capitalize()
