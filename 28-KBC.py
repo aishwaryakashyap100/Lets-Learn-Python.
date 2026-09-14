@@ -1,3 +1,5 @@
+# Exercise 3 -
+
 questions = [['1. Which language was used to create fb?','Python','French','Javascript','PHP','None',4],
              ['2. What is the capital of France?','Madrid','Paris','Rome','Berlin','None',2],
              ['3. Which planet is known as the Red Planet?','Venus','Jupiter','Mars','Saturn',3],
@@ -28,4 +30,3 @@ for i in range(0, len(questions)):
         break
 
 print(f'Your take home money is {money}')
-
