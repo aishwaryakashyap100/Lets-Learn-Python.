@@ -1,3 +1,5 @@
+# Exercise 4 -
+
 st = input('Enter message:')
 words = st.split(" ")
 coding = input("1 for coding or 0 for decoding:")
