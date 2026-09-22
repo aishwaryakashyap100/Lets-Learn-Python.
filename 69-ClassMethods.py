@@ -4,7 +4,7 @@ class Employee:
         print(f'The name is {self.name} and company is {self.company}')
 
     @classmethod # If we want class as first argument then we can use this
-    def changeCompany(cls,newCompany):
+    def changeCompany(cls,newCompany): # If we dont use the decorator method Apple will be printed first
         cls.company = newCompany
 
 e1 = Employee()
