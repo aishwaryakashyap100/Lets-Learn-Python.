@@ -1,3 +1,5 @@
+# Exercise 7 -
+
 import os
 
 files = os.listdir('clutteredFolder')
