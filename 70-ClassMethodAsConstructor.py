@@ -11,6 +11,8 @@ e1 = Employee('Harry',12000)
 print(e1.name)
 print(e1.salary)
 
+# another example -
+
 string = 'Aish-12000'
 e2 = Employee.fromStr(string)
 print(e2.name)
