@@ -1,11 +1,8 @@
-class Employee:
-    name = 'Aish'
-    def __len__(self):
-        i = 0 
-        for c in self.name:
-            i = i+1
-        return i
+from emp import Employee
 
-e = Employee()
-print(e.name)
-print(len(e))
+e = Employee('Aish')
+print(str(e))
+print(repr(e))
+# print(e.name)
+# print(len(e))
+e()
